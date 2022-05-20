@@ -1,0 +1,11 @@
+com\cordova\movilbackend1\enums\EstadoCivil.class
+com\cordova\movilbackend1\Movilbackend1.class
+com\cordova\movilbackend1\model\Person.class
+com\cordova\movilbackend1\model\Phone.class
+com\cordova\movilbackend1\model\Email.class
+com\cordova\movilbackend1\dao\PhoneRepository.class
+com\cordova\movilbackend1\dao\PersonRepository.class
+com\cordova\movilbackend1\dao\direccionRepository.class
+com\cordova\movilbackend1\model\Direccion.class
+com\cordova\movilbackend1\dao\EmailRepository.class
+com\cordova\movilbackend1\enums\Sexo.class
